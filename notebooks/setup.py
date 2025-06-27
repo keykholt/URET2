@@ -9,7 +9,7 @@ with open("README.md", "r") as fh:
 install_requires = [
     "numpy==1.20",
     "scipy==1.4.1",
-    "scikit-learn==0.22.2",
+    "scikit-learn==1.5.0",
     "tensorflow==2.10",
     "pandas==1.3",
     "setuptools",
